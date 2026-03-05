@@ -1,5 +1,5 @@
 # Easy Way
-Go to site: https://tools.apexaccuracyestimatinginc.com/Marketing%20Tools/Free-Email-Extractor/
+Go to site: https://tools.apexaccuracyestimatinginc.com/Marketing%20Tools/Free-Email-validator/
 
 # Free Email Validator
 
